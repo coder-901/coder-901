@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun Kumar
 - 👀 I’m interested in AI/ML 
-- 🌱 I’m currently learning DSA and Development
+- 🌱 I’m a recent undergrad at Chandigarh University
 - 💞️ I’m looking to collaborate on Building Applications
 - 📫 Contact : trn901@gmail.com
 
